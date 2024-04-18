@@ -5,7 +5,7 @@
 
 ## ERRORLEVELとは
 「ERRORLEVEL」とは、Windowsバッチファイルにおいて自動的に設定される環境変数のひとつ。<br>
-「0」を正常終了とし、それ以外には異常終了の原因に該当する値が対応している。
+「0」を正常終了とし、それ以外には異常終了の原因に対応した値が割り振られている。
 
 【参考】システム エラー コード (0 から 499)<br>
 <https://learn.microsoft.com/ja-jp/windows/win32/debug/system-error-codes--0-499->
