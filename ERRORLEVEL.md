@@ -9,7 +9,7 @@
 <https://learn.microsoft.com/ja-jp/windows/win32/debug/system-error-codes--0-499->
 
 ## 基本的なリターン値 
-| リターン値 | 意味 |  | 
+| リターン値 | 意味 | 空 |　
 | :---: | :--- | :--- |  　
 | 0 | コマンドの正常終了 | |　
 | 1 | TD | |
