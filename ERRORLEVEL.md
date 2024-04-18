@@ -1,7 +1,7 @@
 # ERRORLEVELについて
 
 ## 学習環境
-* Windowsを使用
+* Windows
 
 
 ## ERRORLEVELとは
