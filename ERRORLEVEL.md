@@ -9,7 +9,7 @@
 
 【参考】システム エラー コード (0 から 499)<br>
 <https://learn.microsoft.com/ja-jp/windows/win32/debug/system-error-codes--0-499->
-<br>
+
 ## 基本的なリターン値 
 
 | リターン値 |  内容  |
