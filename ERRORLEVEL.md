@@ -5,8 +5,8 @@
 
 ## ERRORLEVELとは
 
-[タイトル][1]
-[url](https://learn.microsoft.com/ja-jp/windows/win32/debug/system-error-codes--0-499-)
+* システム エラー コード (0 から 499)
+[link]([URL](https://learn.microsoft.com/ja-jp/windows/win32/debug/system-error-codes--0-499-)){:target="_blank"}
 
 ## リターン値 
 * 0
