@@ -5,7 +5,17 @@
 
 ## ERRORLEVELとは
 
+[タイトル][1]
+[1]:[url](https://learn.microsoft.com/ja-jp/windows/win32/debug/system-error-codes--0-499-)
+
 ## リターン値 
+* 0
+
+  
+* 1
+* 2
+
+
 * 9009
 
 ```
