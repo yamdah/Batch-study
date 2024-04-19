@@ -11,3 +11,7 @@ Windows環境で実行できるコマンドを扱うバッチファイルの内�
 <br>
 
 ## 基本コマンド
+
+「＠」について<br>
+【参考】<br>
+<https://www.pg-fl.jp/doscmd/str_at.htm>
