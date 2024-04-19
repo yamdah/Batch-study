@@ -15,3 +15,6 @@ Windows環境で実行できるコマンドを扱うバッチファイルの内�
 「＠」について<br>
 【参考】<br>
 <https://www.pg-fl.jp/doscmd/str_at.htm>
+
+
+dir /a
