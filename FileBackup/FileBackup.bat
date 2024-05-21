@@ -8,6 +8,11 @@ rem **************************
 :start / 開始
 	cd /d %~dp0
 	setlocal enabledelayedexpansion
+	openfiles > nul
+	if %errorlevel% neq 0 (
+		echo %date% %time% 失敗 管理者権限がありません
+		goto exception
+	)
 
 :first / 環境変数設定
 	if exist C:\test\batch\Env.bat (
