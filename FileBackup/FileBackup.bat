@@ -10,7 +10,7 @@ rem **************************
 	setlocal enabledelayedexpansion
 	openfiles > nul
 	if %errorlevel% neq 0 (
-		echo %date% %time% 失敗 管理者権限がありません
+		echo %date% %time% 失敗 管理者権限なし
 		goto exception
 	)
 
